@@ -59,5 +59,5 @@ The dataset includes features such as:
 ## 🙋‍♀️ About Me
 
 **Manisha Achary**
-📧 manisha.achary13@gmail.com](mailto:manisha.achary13@gmail.com)
+📧 manisha.achary13@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) 
