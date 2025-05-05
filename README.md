@@ -54,13 +54,10 @@ The dataset includes features such as:
    ```bash
    pip install pandas matplotlib seaborn
    ```
-
-
-
 ---
 
 ## 🙋‍♀️ About Me
 
 **Manisha Achary**
-📧 [rmanishaachary@gmail.com](mailto:rmanishaachary@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) *(Replace with actual links)*
+📧 manisha.achary13@gmail.com](mailto:manisha.achary13@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) 
